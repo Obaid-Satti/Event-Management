@@ -10,7 +10,7 @@ AuraEvents is a premium, single-page React Web Application built to help users s
 - **Custom Vanilla CSS3**: Layered on top of Bootstrap to implement the premium Glassmorphism dark-mode design system using CSS variables, custom animations (keyframes), and overrides.
 - **Lucide-React**: Embedded modern, crisp, and high-quality SVG iconography.
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. **Prerequisites**: Ensure you have Node.js installed on your machine.
 2. **Install Dependencies**: Open a terminal in the project directory and run:
@@ -23,7 +23,7 @@ AuraEvents is a premium, single-page React Web Application built to help users s
    ```
 4. **Preview**: Open your browser and navigate to the URL provided in the terminal (by default, it will be `http://localhost:5173`). With network configurations applied, you can also natively preview via your mobile device!
 
-## ✨ Extra Features Added
+##  Extra Features Added
 
 Beyond the initial requirements, several advanced features were implemented to elevate the user experience:
 

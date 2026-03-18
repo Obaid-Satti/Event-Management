@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar glass fixed-top border-bottom">
-      <div className="container-xl d-flex align-items-center" style={{ minHeight: '80px', position: 'relative' }}>
+      <div className="container-xl d-flex align-items-center" style={{ minHeight: '60px', position: 'relative' }}>
         <div className="navbar-logo position-absolute start-0 ps-4">
           <Navigation className="logo-icon-svg" />
           <span>Aura<span className="text-gradient">Events</span></span>
